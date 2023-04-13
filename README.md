@@ -36,3 +36,13 @@ corremos docker
 se debe ver asi
 
 ![image](https://user-images.githubusercontent.com/123812926/229296138-83e0b904-cc25-467a-825e-3615c9c2b98b.png)
+
+para nuestra bases de datos nueva toca poner esto el properties
+
+![image](https://user-images.githubusercontent.com/123812926/231859300-ad4988b0-0b94-412e-8d95-a55e47b4fbc2.png)
+
+y agregamos esta dependecia 
+
+![image](https://user-images.githubusercontent.com/123812926/231859690-0b431753-b522-43f1-87ad-e041310b169d.png)
+
+
